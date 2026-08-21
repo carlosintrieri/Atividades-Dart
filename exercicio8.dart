@@ -15,7 +15,7 @@ class CadastroProdutos {
       }
     });
     return nomeMaisCaro;
-  }
+  }   
 
   String maisBarato() {
     String nomeMaisBarato = '';

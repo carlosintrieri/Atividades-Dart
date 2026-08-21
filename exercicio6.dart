@@ -22,7 +22,7 @@ class Numeros {
     for (var numero in valores) soma += numero;
     return soma / valores.length;
   }
-}
+}   
 
 void main() {
   var numeros = Numeros();

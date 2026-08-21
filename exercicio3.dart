@@ -15,7 +15,7 @@ class Numeros {
       if (numero % 2 != 0) soma += numero;
     }
     return soma;
-  }
+  }  
 }
 
 void main() {

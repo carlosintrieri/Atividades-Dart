@@ -13,4 +13,5 @@ class ContadorPalavras {
 void main() {
   var contadorPalavras = ContadorPalavras();
   print(contadorPalavras.contar());
-}
+}   
+ 

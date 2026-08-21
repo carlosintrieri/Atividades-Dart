@@ -12,7 +12,7 @@ class CadastroNotas {
     });
     return aprovados;
   }
-}
+} 
 
 void main() {
   var cadastroNotas = CadastroNotas();

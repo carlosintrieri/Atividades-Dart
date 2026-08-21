@@ -13,7 +13,7 @@ class Turma {
     }
     return aprovados;
   }
-}
+}   
 
 void main() {
   var turma = Turma();
